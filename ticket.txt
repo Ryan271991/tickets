@@ -1,0 +1,11 @@
+student= Le Hoang Huynh
+T101; Le Hoang Huynh; account; Cannot reset university password
+T102; Le Hoang Huynh; network; Wi-Fi disconnects repeatedly
+T103; Le Hoang Huynh; software; IDE will not start
+T104; Le Hoang Huynh; other; Lost student card replacement
+T105; Le Hoang Huynh; account; Email account locked after login attempts
+T106; Le Hoang Huynh; network; VPN connection times out
+T107; Le Hoang Huynh; software; Java JDK installation fails
+T108; Le Hoang Huynh; network; Lab computer has no internet access
+T109; Le Hoang Huynh; other; Projector not working in room B2
+T110; Le Hoang Huynh; software; Moodle page shows blank screen
