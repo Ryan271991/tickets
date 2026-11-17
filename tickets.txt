@@ -1,4 +1,4 @@
-student= Le Hoang Huynh
+student=Le Hoang Huynh
 T101; account; Cannot reset university password
 T102; network; Wi-Fi disconnects repeatedly
 T103; software; IDE will not start
